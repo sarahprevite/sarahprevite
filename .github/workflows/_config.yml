@@ -1,0 +1,9 @@
+title: Sarah A. Previte
+author:
+  name: Sarah Previte
+  email: shocutt@crimson.ua.edu
+description: "A Compilation of My Work Experience and Projects"
+
+# Build settings
+
+remote_theme: jekyll-theme-chirpy
